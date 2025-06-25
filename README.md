@@ -42,6 +42,7 @@ Reporting Year
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/803224e5-256d-4cfd-9d5f-90d5cbac317a" />
 
 #### 🗂️ Step 1: Data Ingestion
+<br>
 
 * Dataset from [Vancouver Open Data Portal]( https://opendata.vancouver.ca/explore/dataset/employee-remuneration-and-expenses-earning-over-75000/analyze/?disjunctive.department&disjunctive.title&refine.title=Civil+Engineer+I&dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJsaW5lIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoicmVtdW5lcmF0aW9uIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiI2ZmNTAwMCJ9LHsiYWxpZ25Nb250aCI6dHJ1ZSwidHlwZSI6ImxpbmUiLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJleHBlbnNlcyIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiNmNmIzMzIifV0sInhBeGlzIjoieWVhciIsIm1heHBvaW50cyI6bnVsbCwidGltZXNjYWxlIjoieWVhciIsInNvcnQiOiIiLCJjb25maWciOnsiZGF0YXNldCI6ImVtcGxveWVlLXJlbXVuZXJhdGlvbi1hbmQtZXhwZW5zZXMtZWFybmluZy1vdmVyLTc1MDAwIiwib3B0aW9ucyI6eyJkaXNqdW5jdGl2ZS5kZXBhcnRtZW50Ijp0cnVlLCJkaXNqdW5jdGl2ZS50aXRsZSI6dHJ1ZSwicmVmaW5lLnRpdGxlIjoiQ2l2aWwgRW5naW5lZXIgSSJ9fX1dLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlLCJ0aW1lc2NhbGUiOiIifQ%3D%3D)
 <br>
@@ -52,6 +53,7 @@ Reporting Year
 
 
 #### 🔍 Step 2: Data Profiling & Cleaning
+<br>
 
 * AWS Glue jobs cleaned data and handled nulls, renamed columns
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/e4fd48d6-ea06-4aee-9344-9a336448f94b"/>
@@ -63,12 +65,14 @@ Reporting Year
 
 
 #### 📚 Step 3: Data Cataloging
+<br>
 
 * Glue Data Catalog generated tables for Athena querying
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/f60a5fc0-a1af-495c-baff-7c42249ba44a" />
 
 
 #### 📈 Step 4: Data Summarization
+<br>
 
 * Visual ETL jobs aggregated pay metrics by role and year
 * Results stored in Parquet for faster querying
@@ -121,6 +125,7 @@ A cloud-native platform developed for analyzing **Employee Remuneration and Expe
 <br>
 
 #### Step 8: Cost Estimation
+<br>
 
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/4a34079a-4987-4506-93d0-3b151affb672" />
 
