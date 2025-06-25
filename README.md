@@ -176,7 +176,7 @@ Deployment Models
 
 IaaS / PaaS / SaaS Breakdown
 -----------------------------------------
-<img width="989" alt="Screenshot 2025-06-24 at 5 37 32 PM" src="https://github.com/user-attachments/assets/7ada1084-f8b1-46be-be67-2dcb1b9b121d" />
+<img width="1126" alt="Screenshot 2025-06-24 at 7 26 39 PM" src="https://github.com/user-attachments/assets/0e6def55-9367-488d-a2cd-9399c8995966" />
 
 * Explanation: This module laid the foundation for understanding cloud computing by comparing traditional and cloud models. It emphasized the benefits of elasticity, scalability, and cost-effectiveness. The deployment models helped distinguish the environments in which AWS services operate, while the service models clarified the levels of control and responsibility. Scoring 100% in the module demonstrates a strong grasp of AWS’s layered architecture and deployment strategies.
 
