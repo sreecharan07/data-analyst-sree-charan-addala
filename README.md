@@ -56,6 +56,7 @@ Reporting Year
 <br>
 
 * AWS Glue jobs cleaned data and handled nulls, renamed columns
+<br>
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/e4fd48d6-ea06-4aee-9344-9a336448f94b"/>
 <br>
 
