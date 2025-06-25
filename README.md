@@ -55,8 +55,7 @@ Reporting Year
 
 * AWS Glue jobs cleaned data and handled nulls, renamed columns
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/e4fd48d6-ea06-4aee-9344-9a336448f94b"/>
-<br><br>
-<img width="452" alt="image" src="https://github.com/user-attachments/assets/8e9d6202-46b4-4830-a07c-43ee411e6277" />
+<br>
 
 * Output saved to `clean` and `curated` S3 layers
 
@@ -66,13 +65,15 @@ Reporting Year
 #### 📚 Step 3: Data Cataloging
 
 * Glue Data Catalog generated tables for Athena querying
-<img width="452" alt="image" src="https://github.com/user-attachments/assets/a26e4cb3-bd95-43ac-b225-c02604b77e02" />
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/f60a5fc0-a1af-495c-baff-7c42249ba44a" />
 
 
 #### 📈 Step 4: Data Summarization
 
 * Visual ETL jobs aggregated pay metrics by role and year
 * Results stored in Parquet for faster querying
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/a7b9deea-aad6-4acb-81bb-20576f841ecd" />
+
 
 ## 📊 Project 2: AWS Data Analytics Platform – City of Vancouver
   
@@ -102,7 +103,6 @@ A cloud-native platform developed for analyzing **Employee Remuneration and Expe
 * ETL outputs routed to `/passed` and `/failed` S3 folders
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/2da174f6-5994-410e-92b4-5f745f7952ee" />
 <br>
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/97bacd43-2c89-4c68-9ed0-1aa8d5291099" />
 
 * Enforced completeness and freshness rules
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/82001647-16d4-4d70-9cca-46818a4b4670" />
@@ -118,6 +118,7 @@ A cloud-native platform developed for analyzing **Employee Remuneration and Expe
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/d8c6a577-2a5a-40a9-9ad8-83f3c7a53eab" />
 <br>
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/ad360a8e-b046-4ea0-a29a-2fe6fc660f23" />
+<br>
 
 #### Step 8: Cost Estimation
 
