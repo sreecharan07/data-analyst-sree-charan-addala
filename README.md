@@ -56,8 +56,10 @@ Reporting Year
 <br>
 
 * AWS Glue jobs cleaned data and handled nulls, renamed columns
+
 <br>
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/e4fd48d6-ea06-4aee-9344-9a336448f94b"/>
+
 <br>
 
 * Output saved to `clean` and `curated` S3 layers
@@ -69,6 +71,7 @@ Reporting Year
 <br>
 
 * Glue Data Catalog generated tables for Athena querying
+
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/f60a5fc0-a1af-495c-baff-7c42249ba44a" />
 
 
@@ -77,6 +80,7 @@ Reporting Year
 
 * Visual ETL jobs aggregated pay metrics by role and year
 * Results stored in Parquet for faster querying
+
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/a7b9deea-aad6-4acb-81bb-20576f841ecd" />
 
 
@@ -106,10 +110,12 @@ A cloud-native platform developed for analyzing **Employee Remuneration and Expe
 #### 🧪 Step 6: Governance & Quality Control
 
 * ETL outputs routed to `/passed` and `/failed` S3 folders
+
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/2da174f6-5994-410e-92b4-5f745f7952ee" />
 <br>
 
 * Enforced completeness and freshness rules
+
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/82001647-16d4-4d70-9cca-46818a4b4670" />
 
 
@@ -117,12 +123,16 @@ A cloud-native platform developed for analyzing **Employee Remuneration and Expe
 
 * Dashboards created in CloudWatch
 * Alarms notify on job failures or cost spikes
+
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/26f8f10c-ec3f-4a70-8837-fd412b2064da" /> 
 <br>
 * CloudTrail logs actions and stores them securely<br>
+
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/d8c6a577-2a5a-40a9-9ad8-83f3c7a53eab" />
+
 <br>
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/ad360a8e-b046-4ea0-a29a-2fe6fc660f23" />
+
 <br>
 
 #### Step 8: Cost Estimation
